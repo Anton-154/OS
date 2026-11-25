@@ -11,5 +11,5 @@ do
         IMG="${SERVER}${LINE}"
     fi
 
-    curl -s -O "$URL"
+    curl -s -O "$IMG"
 done
